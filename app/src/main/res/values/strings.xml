@@ -9,5 +9,7 @@
     <string name="pref_location_key" translatable="false">location</string>
     <string name="pref_location_default" translatable="false">110014</string>
 
+    <!-- Just another thing in string -->
+
     <string name="title_activity_settings">Settings Activity</string>
 </resources>
