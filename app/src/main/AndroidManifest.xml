@@ -6,6 +6,8 @@
 
     <!-- this is another thing just for the sake of testing sdfjsdakfdl-->
 
+    <!-- committting in master branch to test git fetch -->
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_sunshine_main"
